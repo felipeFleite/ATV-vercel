@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <img src="topo-formaturas-3625885383.png" alt="Foto de Felipe Fracalossi Leite" width="50%" height="50%" />
+    <img src="./topo-formaturas-3625885383.png" width="50%" height="50%" />
       <h1>Felipe Fracalossi Leite — Informática 6B</h1>
       <h2>Contagem regressiva para a formatura 🎓</h2>
 
